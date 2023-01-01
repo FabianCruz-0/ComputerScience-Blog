@@ -1,5 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Fabián Cruz Blog
+description: Blog where I share my journey in Computer Science world.
 theme: just-the-docs
+color_scheme: dark
 
 url: https://FabianCruz-0.github.io/ComputerScience-Blog
+
+nav_external_links:
+  - title: Portfolio Page
+    url: https://fabiancruz-0.github.io
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: LinkedIn Profile
+    url: https://www.linkedin.com/in/fabian-cruz-dev/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: GitHub Profile
+    url: https://github.com/FabianCruz-0
+    hide_icon: false # set to true to hide the external link icon - defaults to false
