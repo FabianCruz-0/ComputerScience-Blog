@@ -8,10 +8,24 @@ url: https://FabianCruz-0.github.io/ComputerScience-Blog
 nav_external_links:
   - title: Portfolio Page
     url: https://fabiancruz-0.github.io
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: false 
   - title: LinkedIn Profile
     url: https://www.linkedin.com/in/fabian-cruz-dev/
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: false 
   - title: GitHub Profile
     url: https://github.com/FabianCruz-0
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: false 
+
+callouts:
+  note-title:
+    title: Note
+    color: purple
+  highlight:
+    color: yellow
+
+enable_copy_code_button: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.3.0"
