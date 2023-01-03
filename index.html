@@ -16,3 +16,13 @@ nav_order: 1
 <p class="note-title">
   <i>This blog is being created and <b>constantly</b> updated.</i>
 </p>
+
+{% assign my_array = '' | split: '' %}
+{% for page in site.pages %}
+
+{% if page.parent == "Data Structures" %}
+
+{% assign my_array = my_array | append: ', ' | append: page.title  %}
+
+{% endif %}
+{% endfor %}

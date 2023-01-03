@@ -22,6 +22,12 @@ callouts:
     color: purple
   highlight:
     color: yellow
+  concept:
+    title: Concept
+    color: yellow
+  important:
+    title: important
+    color: blue
 
 enable_copy_code_button: true
 

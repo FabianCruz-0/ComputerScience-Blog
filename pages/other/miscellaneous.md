@@ -2,7 +2,7 @@
 layout: default
 title: Miscellaneous
 permalink: /miscellaneous/
-nav_order: 4
+nav_order: 6
 # has_children: true
 has_toc: false
 ---
@@ -33,10 +33,7 @@ return true;
 <p>Graph Example</p>
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart LR
+A["Arr#91;0#93; "] --- B["Arr#91;1#93; "]
 ```
 {: .bg-white }
