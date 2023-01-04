@@ -3,7 +3,8 @@ description: Blog where I share my journey in Computer Science world.
 theme: just-the-docs
 color_scheme: dark
 
-url: https://FabianCruz-0.github.io/ComputerScience-Blog
+baseurl: /ComputerScience-Blog
+url: https://FabianCruz-0.github.io
 
 nav_external_links:
   - title: Portfolio Page
@@ -35,3 +36,7 @@ mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.3.0"
+
+compress_html:
+  ignore:
+    envs: all

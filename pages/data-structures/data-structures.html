@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Data Structures
-permalink: /data-structures/
+permalink: /data-structures
 nav_order: 3
 has_children: true
 has_toc: false
 ---
 
-<h2>Data Structures</h2>
+<h1>Data Structures</h1>
 <h3>Introduction</h3>
 <i>
   <p>¿What is a Data Structure?</p>
@@ -37,28 +37,28 @@ has_toc: false
   <b>store and manipulate</b>
   the data in the form of objects. First of all, let's list all the content it offers:
 </p>
-<div style="text-align: center;"><img src="/assets/images/data-structures/java-collection-graph.png" alt=""
+<div style="text-align: center;"><img src="{{ site.url }}{% link /assets/images/data-structures/java-collection-graph.png %}" alt=""
     style="border-radius: 6px">
 </div>
 <p class="important fs-5">
   It is important to highlight how the <b><u>Map interface</u></b> is part of the Collection framework <strong>BUT</strong> 
   <b><u>does not inherit</u></b> from the <b><u>Collection interface</u></b>. <span class="fs-3">*if concepts like 
-    <i>"inherits"</i>, <i>"interfaces"</i> or <i>"classes"</i> don't sound familiar, first check out my page of <a href="https://fabiancruz-0.github.io/ComputerScience-Blog/oop/">Object Oriented Programming</a>.</span>
+    <i>"inherits"</i>, <i>"interfaces"</i> or <i>"classes"</i> don't sound familiar, first check out my page of <a href="{{ site.url }}{% link pages/oop/oop.html %}">Object Oriented Programming</a>.</span>
 </p>
 <p class="l-font">
   At first glance it may seem complicated to understand the graph, but let's order the data:
 </p>
 <table>
   <tr>
-    <td class="v-align-top" style="text-align: center;">
+    <td class="v-align-top" style="text-align: center;" width="50%">
       <span class="fs-6"><b>Interfaces</b></span>
     </td>
-    <td class="v-align-top" style="text-align: center;">
+    <td class="v-align-top" style="text-align: center;" width="50%">
       <span class="fs-6"><b>Classes</b></span>
     </td>
   </tr>
   <tr>
-    <td class="v-align-top">
+    <td class="v-align-top" width="50%">
       <ol class="ml-3">
         <li>Iterable</li>
         <li>Collection</li>
@@ -71,7 +71,7 @@ has_toc: false
         <li>SortedMap</li>
       </ol>
     </td>
-    <td class="v-align-top">
+    <td class="v-align-top" width="50%">
       <ol class="ml-3">
         <li>ArrayList</li>
         <li>LinkedList</li>
