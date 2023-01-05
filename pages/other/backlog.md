@@ -22,3 +22,9 @@ List of topics for future pages.
 - [ ] Angular
 - [ ] HTML
 - [ ] CSS
+- [ ] TDD
+- [ ] DDD
+- [ ] Dependency Injection
+- [ ] Desing Patterns
+- [ ] APIs and Microservices
+- [ ] JPA and JDBC
