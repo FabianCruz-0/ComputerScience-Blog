@@ -4,14 +4,14 @@ title: Data Structures
 permalink: /data-structures
 nav_order: 3
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 <h1>Data Structures</h1>
-<h3>Introduction</h3>
-<i>
-  <p>¿What is a Data Structure?</p>
-</i>
+### Introduction
+<p>
+  <i>What is a Data Structures?</i>
+</p>
 <p class="concept l-font">
   A Data Structure is a particular way of organizing information on a computer so that it
   can be used efficiently. Different types of data structures are suitable
@@ -23,7 +23,8 @@ has_toc: false
   <br><br>
   Since I work with Java and JavaScript I will explain the implementation in these languages.
 </p>
-<h2>Java implementation</h2>
+
+## Java implementation
 <p class="l-font">
   Java has a framework for implementing data structures,
   it is called the <code class="fs-3"><b>Java Collections Framework</b></code>. I <b>highly recommend</b> reviewing the
@@ -43,7 +44,7 @@ has_toc: false
 <p class="important fs-5">
   It is important to highlight how the <b><u>Map interface</u></b> is part of the Collection framework <strong>BUT</strong> 
   <b><u>does not inherit</u></b> from the <b><u>Collection interface</u></b>. <span class="fs-3">*if concepts like 
-    <i>"inherits"</i>, <i>"interfaces"</i> or <i>"classes"</i> don't sound familiar, first check out my page of <a href="{{ site.url }}{% link pages/oop/oop.html %}">Object Oriented Programming</a>.</span>
+    <i>"inherits"</i>, <i>"interfaces"</i> or <i>"classes"</i> don't sound familiar, first check out my page of <a href="{{ site.url }}{% link pages/oop/oop.md %}">Object Oriented Programming</a>.</span>
 </p>
 <p class="l-font">
   At first glance it may seem complicated to understand the graph, but let's order the data:

@@ -12,7 +12,7 @@ The content on this page is for testing purposes only.
 
 
 
-<p class="note-title">
+<p class="note">
   This is a note
 </p>
 

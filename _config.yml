@@ -18,7 +18,7 @@ nav_external_links:
     hide_icon: false 
 
 callouts:
-  note-title:
+  note:
     title: Note
     color: purple
   highlight:
