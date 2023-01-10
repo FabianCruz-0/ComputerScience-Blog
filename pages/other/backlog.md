@@ -28,3 +28,5 @@ List of topics for future pages.
 - [ ] Desing Patterns
 - [ ] APIs and Microservices
 - [ ] JPA and JDBC
+- [ ] immutability
+- [ ] Inversion of Control
