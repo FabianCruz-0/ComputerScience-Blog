@@ -10,7 +10,7 @@ has_toc: false
 # Object-Oriented Programming
 ### Introduction
 <p>
-  <i>What is a Object-Oriented Programming?</i>
+  <i>What is Object-Oriented Programming?</i>
 </p>
 
 <p class="concept l-font">
