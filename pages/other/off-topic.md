@@ -46,7 +46,18 @@ This is my <code>settings.json</code> of VSC and works pretty neat:
 
 ---
 
+<p class="l-font">
+    <i>12/02/2023</i><br>
+    I'm pretty mad at the Eclipse IDE 😂. I spent a lot of time trying to see why an application 
+    was not working correctly and eclipse was not giving any error logs. I tried everything to even 
+    log the errors but it just didn't change anything. I got fed up and installed the intelliJ IDE 
+    at least to see if I got any errors. After installing the IDE and importing the project, 
+    it worked perfectly without changing anything 😭. <br>
+    It is possible that I did something wrong, but without any information it is difficult to solve it. <br>
+    For now I will continue working with intelliJ.
+</p>
 
+---
 
 <!--  article template:
 
