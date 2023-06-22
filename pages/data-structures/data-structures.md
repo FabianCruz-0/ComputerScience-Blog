@@ -36,7 +36,12 @@ has_toc: true
 <p class="l-font">
   Java Collections Framework is a combination of <code>classes</code> and <code>interfaces</code>, which is used to
   <b>store and manipulate</b>
-  the data in the form of objects. First of all, let's list all the content it offers:
+  the data in the form of objects. 
+  <br> <br>
+  The collections are similar to the Arrays, the difference is that the Collection is a store of dynamic objects, 
+  that is to say that the store can grow or decrease during the execution of the program, while an array has a fixed size.
+  <br> <br>
+  First of all, let's list all the content it offers:
 </p>
 <div style="text-align: center;"><img src="{{ site.url }}{% link /assets/images/data-structures/java-collection-graph.png %}" alt=""
     style="border-radius: 6px">
